@@ -1,0 +1,32 @@
+---
+---
+
+@charset "utf-8";
+
+@import
+"reset",
+"wrapper",
+"page",
+"footer",
+"header",
+"float",
+"posts",
+"categories",
+"post",
+"mobile"
+;
+
+body {
+  color: cadetblue;
+  background-color: #650b03;
+}
+h1, h2, strong {
+  color: #cad;
+}
+a {
+  color: #cad;
+}
+h3 {
+  color: cadetblue;
+}
+
