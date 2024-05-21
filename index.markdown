@@ -4,4 +4,4 @@ title: temps perdu . org
 ---
 
 ## About
-website
+Freelance IT-dienstverlener. Contact: rick@tempsperdu.org
