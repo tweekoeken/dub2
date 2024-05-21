@@ -1,8 +1,0 @@
----
-layout: post
-author: r
-title:  "another post"
-date:   2024-05-21 17:34:33 +0200
-categories: update
----
-this is another post
