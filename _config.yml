@@ -1,9 +1,9 @@
 # Site Specific Configuration
 name: pf
 description: A simple Jekyll theme
-url: https://example.com
+url: https://tempsperdu.org
 author: tajacks
-timezone: America/Toronto
+timezone: CET
 timezone_short: ET
 
 # Keywords
