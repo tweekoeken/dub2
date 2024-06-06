@@ -10,8 +10,10 @@ Freelance IT-dienstverlener.
 rick@tempsperdu.org
 \
 +31(0)6 29 160 143
-
+\
+\
 Postadres:
+\
 \
 Vasco da Gamastraat 17H
 \
