@@ -14,7 +14,6 @@ rick@tempsperdu.org
 \
 Postadres:
 \
-\
 Vasco da Gamastraat 17H
 \
 1057VH Amsterdam
