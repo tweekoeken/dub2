@@ -14,9 +14,10 @@ rick@tempsperdu.org
 Postadres:
 \
 Vasco da Gamastraat 17H
-\s
+\
 1057VH Amsterdam
 \
 \
-Kamer van Koophandel    : 93990642
+Kamer van Koophandel : 93990642
+\
 Btw identificatienummer : NL005059395B34 
